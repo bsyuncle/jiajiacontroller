@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">佳佳</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="message_fg">主控界面</string>
+    <string name="contact_fg">动作</string>
+    <string name="dongtai_fg">节点</string>
+    <string name="setting_fg">文本编辑</string>
+    <string name="sample_fg">普通</string>
+    <string name="news_fg">新闻</string>
+
+</resources>
